@@ -1,3 +1,13 @@
+
+# VS files
+*.vcxproj
+*.filters
+*.user
+
+# Folders
+[Bb]in/
+[Bb]in-int/
+
 # Compiled source #
 ###################
 *.com
